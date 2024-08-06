@@ -1,0 +1,95 @@
+.menu {
+    background-color: white;
+    padding: 10px;
+}
+
+.menu img {
+    width: 5%;
+    margin-right: 2px;
+    float: right;
+    padding: 2px;
+}
+
+.menu-principal img {
+    width: 25%; 
+    margin-left: 20px;
+}
+
+.line {
+    height: 2px;
+    background-color: goldenrod;
+}
+
+.links-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navbar-brand {
+    border-radius: 20px;
+    background-color: goldenrod;
+    padding: 0 5px;
+    font-size: 1rem;
+    margin: 0 auto;
+    margin-right: 20px;
+}
+
+.links-menu nav a:hover {
+    color: white;
+}
+
+.titulo {
+    background-color: goldenrod;
+    color: black;
+    padding: 2%;
+    margin: 0 auto;
+}
+
+.img {
+    width: 15%;
+    margin: 0 auto;
+}
+
+.fale {
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+
+.fale img {
+    width: 25%; 
+    float: right;
+}
+
+.form-container {
+    width: fit-content;
+    padding: 1%;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+
+textarea {
+    border: 1px solid white;
+    border-radius: 2px;
+    resize: none;
+}
+
+input {
+    border: 1px solid white;
+    border-radius: 2px;
+    resize: none;
+}
+
+button {
+    display: inline;
+    position: relative;
+    bottom: 15px;
+}
+
+.contentinfo {
+    text-align: center;
+    background-color: white;
+    color: black;
+}
