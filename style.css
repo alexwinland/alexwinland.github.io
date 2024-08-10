@@ -47,6 +47,7 @@ header{
     padding: .8rem;
     background-color: #2f2f46;
     min-height: 50px;
+    
 }
 
 .box-img-header{
@@ -64,11 +65,15 @@ nav{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+
 }
 
 .nav-links{
     text-decoration: none;
     color: var(--white);
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: none;
 }
 
 .nav-links:hover{
@@ -103,7 +108,7 @@ nav{
 }
 
 .btn-action:hover{
-    background-color:  var(--dark3);
+    background-color: var(--dark3);
     border: 1px solid var(--dark3);
 }
 
