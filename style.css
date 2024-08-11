@@ -148,6 +148,7 @@ h1{
     font-size: 4rem;
     letter-spacing: 8px;
     color: var(--white);
+    text-align: justify-content;
 }
 
 strong{
