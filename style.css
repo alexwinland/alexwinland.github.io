@@ -47,7 +47,6 @@ header{
     padding: .8rem;
     background-color: #2f2f46;
     min-height: 50px;
-    
 }
 
 .box-img-header{
@@ -65,7 +64,6 @@ nav{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-
 }
 
 .nav-links{
