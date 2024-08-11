@@ -140,13 +140,16 @@ section{
     flex-direction: column;
     gap: 1rem;
     min-width: 300px;
-    text-align: justify-content;
 }
 
 h1{
     font-size: 4rem;
     letter-spacing: 8px;
     color: var(--white);
+}
+
+p {
+    text-align: justify-content;
 }
 
 strong{
