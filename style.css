@@ -257,8 +257,8 @@ strong{
     text-decoration: none;
 }
 
-:is(.img-profile,.img-who-am-i){
-    box-shadow: 2px 2px 2px 2px var(--cyan1);
+:is(.img-profile,.img-who-am-i,.img-logo){
+    box-shadow: 1px 1px 1px 1px var(--cyan1);
 }
 
 footer{
