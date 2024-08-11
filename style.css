@@ -71,7 +71,6 @@ nav{
     color: var(--white);
     font-weight: bold;
     letter-spacing: 1px;
-    text-decoration: none;
 }
 
 .nav-links:hover{
@@ -142,14 +141,10 @@ section{
     min-width: 300px;
 }
 
-h1{
+.first-section h1{
     font-size: 4rem;
     letter-spacing: 8px;
     color: var(--white);
-}
-
-p {
-    text-align: justify-content;
 }
 
 strong{
@@ -158,6 +153,7 @@ strong{
 
 .first-section p{
     color: var(--white);
+    text-align: justify-content;
 }
 
 .first-section button{
