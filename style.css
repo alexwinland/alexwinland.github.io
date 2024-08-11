@@ -135,6 +135,7 @@ section{
     gap: 2rem;
     min-height: 650px;
     flex-wrap: wrap;
+    text-align: justify-content;
 }
 
 .first-section > div{
@@ -148,7 +149,6 @@ h1{
     font-size: 4rem;
     letter-spacing: 8px;
     color: var(--white);
-    text-align: justify-content;
 }
 
 strong{
