@@ -200,7 +200,6 @@ strong{
 .second-section p:hover{
     color: var(--dark5);
     transition: .4s;
-    cursor: default;
 }
 
 .third-section{
