@@ -101,20 +101,20 @@ nav{
 .btn-action {
     margin-top: 20px;
     display: inline-block;
-    background-color: transparent;
-    border: 1px solid var(--white);
+    background-color: var(--dark3);
+    border: 1px solid var(--dark4);
     color: var(--white);
 }
 
 .btn-action-a {
     text-decoration: none;
-    background-color: transparent;
     color: var(--white);
 }
 
 .btn-action:hover{
-    background-color: var(--dark3);
-    border: 1px solid var(--dark3);
+    background-color: var(--dark4);
+    border: 1px solid var(--white);
+    transition: .4s;
 }
 
 .link-action{
