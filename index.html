@@ -12,26 +12,28 @@
 
 <body>
 
-    <header>
-        <nav>
-            <div class="box-img-header">
-                <a href="#profile"><img class="img-logo" src="./imagem/logo.png" alt="Imagem Logo"></a>
-            </div>
-
-            <div class="mobile-menu">
-            <div class="line1"></div>
-            <div class="line2"></div>
-            <div class="line3"></div>
-            </div>
-
-            <ul class="nav-list">
-                <li><a href="#profile">Início</a></li>
-                <li><a href="#who-am-i">Quem sou eu</a></li>
-                <li><a href="#my-projects">Meus projetos</a></li>
-                <li><a href="#contact">Contato</a></li>
-            </ul>
+    <header class="header">
+        <div class="box-img-header">
+            <a href="#profile"><img class="img-logo" src="./imagem/logo.png" alt="Imagem Logo"></a>
+        </div>
+        <nav class="nav">
+          <button
+            class="btn-menu"
+            aria-label="Abrir Menu"
+            aria-haspopup="true"
+            aria-controls="menu"
+            aria-expanded="false"
+          >
+            Menu<span class="hamburger"></span>
+          </button>
+          <ul class="menu" id="menu" role="menu">
+            <li><a href="#profile" class="nav-links">Início</a></li>
+            <li><a href="#who-am-i" class="nav-links">Quem sou eu</a></li>
+            <li><a href="#my-projects" class="nav-links">Meus projetos</a></li>
+            <li><a href="#contact" class="nav-links">Contato</a></li>
+          </ul>
         </nav>
-    </header>
+      </header>
 
     <main>
         <section id="profile" class="first-section">
@@ -113,6 +115,6 @@
 </body>
 
 <script src="main.js"></script>
-<script src="mobile-navbar.js"></script>
+<script src="app.js"></script>
 
 </html>
