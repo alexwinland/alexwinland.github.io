@@ -85,7 +85,6 @@ a {
   @media (max-width: 999px) {
     body {
       overflow-x: hidden;
-      max-width: 80%;
     }
     .nav-list {
       position: absolute;
@@ -138,9 +137,9 @@ a {
 
 body{
     background-color: var(--dark1);
+    background-size: 400%;
     height: 100vh;
     font-family: 'Lato';
-    overflow-x: hidden;
 }
 
 strong{
