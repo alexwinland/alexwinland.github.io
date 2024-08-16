@@ -92,7 +92,7 @@ a {
       top: 10vh;
       right: 0;
       width: 50vw;
-      height: 92vh;
+      height: 90vh;
       background: var(--dark0);
       flex-direction: column;
       align-items: center;
@@ -138,7 +138,7 @@ a {
 
 body{
     background-color: var(--dark1);
-    height: 92vh;
+    height: 100vh;
     font-family: 'Lato';
 }
 
