@@ -1,4 +1,4 @@
-## **Portfólio Pessoal - Um Vislumbre do Meu Mundo Digital** 
+## **Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
 
 <img src="imagem/Projeto.png">
 
