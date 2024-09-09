@@ -2,7 +2,7 @@
 
 ### **Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
 
-<img src="imagem/Projetos.png">
+<img src="imagem/Projeto.png">
 
 **O que é esse projeto?**
 
