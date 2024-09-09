@@ -1,6 +1,4 @@
-## **README.md**
-
-### **Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
+## **README.md: Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
 
 <img src="imagem/Projeto.png">
 
