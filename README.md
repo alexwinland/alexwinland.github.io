@@ -1,4 +1,4 @@
-## **Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
+# **Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
 
 <img src="imagem/Projeto.png">
 
@@ -25,10 +25,6 @@ Esse projeto é meu portfólio pessoal, criado com o objetivo de apresentar minh
 **Como contribuir:**
 
 Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, abra um issue ou um pull request no GitHub. 
-
-**Agradecimentos:**
-
-Agradeço a todos que contribuíram para a criação deste projeto, especialmente à comunidade open-source.
 
 **Vamos construir juntos!**
 
