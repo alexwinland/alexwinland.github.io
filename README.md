@@ -1,31 +1,31 @@
-# **Portfólio Pessoal: Um Vislumbre do Meu Mundo Digital** 
+# **Personal Portfolio: A Glimpse Into My Digital World** 
 
 <img src="imagem/Projeto.png">
 
-**O que é esse projeto?**
+**What is this project?**
 
-Esse projeto é meu portfólio pessoal, criado com o objetivo de apresentar minhas habilidades e projetos como desenvolvedor web. É como um cartão de visitas digital onde você pode conhecer um pouco mais sobre mim e meu trabalho.
+This project is my personal portfolio, built to showcase my skills and projects as a web developer. Think of it as a digital business card where you can learn a bit more about me and see my work.
 
-**Como funciona?**
+**Key Features:**
 
-* **Design Responsivo:** Adapta-se perfeitamente a qualquer dispositivo, seja um computador, tablet ou smartphone.
-* **Menu Interativo:** Navegue facilmente entre as diferentes seções do meu portfólio.
-* **Seção de Projetos:** Aqui você encontrará uma lista dos meus projetos, com links para os repositórios no GitHub.
-* **Informações Pessoais:** Descubra um pouco mais sobre minha jornada na programação e meus objetivos.
-* **Contato:** Entre em contato comigo através das minhas redes sociais.
+* **Responsive Design:** Fits perfectly on any device, whether it's a desktop, tablet, or smartphone.
+* **Interactive Menu:** Easily navigate through the different sections of my portfolio.
+* **Projects Section:** Here you'll find a list of my projects, including links to their GitHub repositories.
+* **About Me:** Learn a bit more about my programming journey and my professional goals.
+* **Contact:** Get in touch with me through my social media links.
 
-**Tecnologias Utilizadas:**
+**Technologies Used:**
 
-* **HTML:** A estrutura básica da página.
-* **CSS:** Responsável pelo estilo visual e layout.
-* **JavaScript:** Adiciona interatividade e dinamismo.
-* **GitHub:** Hospeda o código fonte do projeto e permite que outros desenvolvedores contribuam.
-* **Google Fonts:** Fornece as fontes utilizadas no projeto.
+* **HTML:** The core structure of the page.
+* **CSS:** Responsible for the visual styling and layout.
+* **JavaScript:** Adds interactivity and dynamic elements.
+* **GitHub:** Hosts the project's source code and allows other developers to contribute.
+* **Google Fonts:** Provides the typography used across the project.
 
-**Como contribuir:**
+**How to contribute:**
 
-Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, abra um issue ou um pull request no GitHub. 
+Feel free to contribute to this project! If you find a bug or have any suggestions for improvement, please open an issue or submit a pull request on GitHub. 
 
-**Vamos construir juntos!**
+**Let's build together!**
 
-Se você gostou do meu portfólio, não hesite em me seguir nas redes sociais e conferir meus outros projetos. 
+If you like my portfolio, don't hesitate to follow me on social media and check out my other projects.
